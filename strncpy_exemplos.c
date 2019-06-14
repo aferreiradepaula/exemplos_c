@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-/* gcc -g memcpy_ex01.c -o memcpy_ex01.exe */
+/* gcc -g strncpy_exemplos.c -o strncpy_exemplos.exe */
 
 /*
  * Muito bem kids! 
@@ -100,7 +100,7 @@ int main() {
   /* Nem chega aqui... */
   
   /* Na compilacao nao fala nada... Vamos ver com -Wall */
-  /* > gcc -Wall -g memcpy_ex01.c -o memcpy_ex01.exe
+  /* > gcc -Wall -g strncpy_exemplos.c -o strncpy_exemplos.exe
   memcpy_ex01.c:65:34: warning: argument to ‘sizeof’ in ‘memset’ call is the same expression as the destination; did you mean to provide an explicit length? [-Wsizeof-pointer-memaccess]
    memset(output_str, '\0', sizeof( output_str ));
                                   ^
