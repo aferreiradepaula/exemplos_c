@@ -14,8 +14,6 @@ typedef struct {
     int eqpt_ftth_id;
 } T_EQPT_FTTH_INFO;
 
-/* Luis - SASReq-13241:13247,SASReq-13299:13300
-   armazenar uma lista com as informacoes de um equipamento terminal FTTH */
 typedef struct T_L_EQPT_FTTH_INFO{
   T_EQPT_FTTH_INFO eqpt_ftth_info;
   struct T_L_EQPT_FTTH_INFO *next;
