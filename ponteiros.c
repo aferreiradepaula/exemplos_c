@@ -4,7 +4,7 @@
 /* gcc -g ponteiros.c -o ponteiros.exe */
 
 /*
- * Ponteiros... Como usar.
+ * Ponteiros... Exemplo do gemini (bem legal).
  * 
  * */
 #include <stdio.h>

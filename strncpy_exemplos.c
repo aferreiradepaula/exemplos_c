@@ -4,12 +4,7 @@
 /* gcc -g strncpy_exemplos.c -o strncpy_exemplos.exe */
 
 /*
- * Muito bem kids! 
- * 
- * Uma brincadeirinha com o STRNCPY pra relaxar...
- * 
- * No codigo esta tudo explicadinho como usar e como nao usar esse 
- * comandinho tao legal que existe em C.
+ * Copia x caracteres e tals
  * 
  * */
 int main() {

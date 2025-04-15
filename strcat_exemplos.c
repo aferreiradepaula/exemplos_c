@@ -4,8 +4,6 @@
 /* gcc -g strcat_exemplos.c -o strcat_exemplos.exe */
 
 /*
- * Kids, vamos brincar com o gato?  
- * 
  * O strcat serve para concatenar strings. 
  * Muito simples, o que pode dar errado nisso?
  * 
